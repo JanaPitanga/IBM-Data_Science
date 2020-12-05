@@ -10,6 +10,7 @@ Data Scientist is a curious person who is passionate in always learning. He/She 
 
 More about Storytelling [here](https://storynet.org/what-is-storytelling/)
 
+
 [Murtaza Haider](https://www.linkedin.com/in/regionomics/?originalSubdomain=ca),
 Professor at Ryerson University:
 
@@ -20,18 +21,22 @@ Professor at Ryerson University:
 :blush: :clap: 
 
 According to the course material, a final deliverable in the form of a report, has the following 10 main components:
-1. Cover page
-2. Table of contents
-3. Introductory section
-4. Methodology section
-5. Results section
-6. Discussion section
-7. Conclusion section
-8. References
-9. Acknowledgment
-10. Appendix
+<ol>
+<li>Cover page</li>
+<li>Table of contents</li>
+<li>Introductory section</li>
+<li>Methodology section</li>
+<li>Results section</li>
+<li>Discussion section</li>
+<li>Conclusion section</li>
+<li>References</li>
+<li>Acknowledgment</li>
+<li>Appendix</li>
+</ol>
+
 
 Another interesting version of the 10 components of a Data Science project [here](https://medium.com/@yrnigam/how-to-write-a-data-science-report-181bd49d8f4d#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0Y2JhMjVlNTYzNjYwYTkwMDlkODIwYTFjMDIwMjIwNzA1NzRlODIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDcxODMxNTEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwMDU4NTg5MjY0MDI3MDI4MzU5NiIsImVtYWlsIjoiamFuYXNhYmlub0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IkphbmFpbmEgU2FiaW5vIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdndVBLWEhUSndOeFZ5UjhaajVvQWJOdk1WWXJFZWJIa3V2bENTbjR3PXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkphbmFpbmEiLCJmYW1pbHlfbmFtZSI6IlNhYmlubyIsImlhdCI6MTYwNzE4MzQ1MSwiZXhwIjoxNjA3MTg3MDUxLCJqdGkiOiJhMTIyNjk2MmFmYzIzZjAwYjBkNzgzZTUwN2JiZDRmODdkNjIzODdkIn0.h3xZbNlWJ-IfG9nCU98g57YxW9HWiCNjIjvPbYWySeKL1ApYJJHsuoqMDIH86JXn6dsJYK1Ud7nJNONwC5bSIoFFXnzh91ELZzWyzHQ0sCYfz-lZFwT15FKbz1FGwrFJWPcyHOR543yqqrkCgJpUZ1OPy7AqWXYsLO4KNzv58Ih0yCCwo3N8rMtGKVZ2_Telg4GeKEWnZaheCsH1vBsrbpc8z9wUgRvp3EVnbeIkIx5inscjuPUO3pSQCncuti0PyrTAWua00toPgwspgr-qcq7tq-rKMmKIgDn1W-nILZsljCutyUta1ii_69e1WEoWwRljj9CTyknp_SIOTcqYow)
+
 
 
 *It's not over, it will continue soon...* :facepunch: :computer:
