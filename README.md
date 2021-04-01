@@ -57,13 +57,14 @@ Roles available for people who are interested in getting involved in data scienc
 - Project Manager 
 - Etc!
 
+Most used languages for data science
 <ol>
 <li>[Python](https://www.python.org/) is useful for many situations, including data science, AI and machine learning, web development, and IoT devices like the Raspberry Pi.</li>
 <li>[R](https://www.r-project.org/) is popular in academia but companies that use R include IBM, Google, Facebook, Microsoft, Bank of America, Ford, TechCrunch, Uber, and Trulia and R has become the world’s largest repository of statistical knowledge.</li>
 <li>SQL was designed for managing data in relational databases.</li>
 </ol>
 
-- Data Science Methodology
+Data Science Methodology
 <ol>
 <li>Data Management</li>
 <li>Data Integration and Transformation</li>
