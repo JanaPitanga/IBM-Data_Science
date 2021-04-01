@@ -74,12 +74,13 @@ Roles available for people who are interested in getting involved in data scienc
 </ol>
 
 - Development environments
+
 One of the most popular current development environments that data scientists are using is “Jupyter.” Jupyter first emerged as a tool for interactive Python programming; it now supports more than a hundred different programming languages through “kernels.”
 
 RStudio is one of the oldest development environments for statistics and data science, having been introduced in 2011.
 
 - API
-- 
+
 An API lets two pieces of software talk to each other.
 
 - Data sets
