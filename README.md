@@ -59,8 +59,8 @@ Roles available for people who are interested in getting involved in data scienc
 
 Most used languages for data science
 <ol>
-<li>[Python](https://www.python.org/) is useful for many situations, including data science, AI and machine learning, web development, and IoT devices like the Raspberry Pi.</li>
-<li>[R](https://www.r-project.org/) is popular in academia but companies that use R include IBM, Google, Facebook, Microsoft, Bank of America, Ford, TechCrunch, Uber, and Trulia and R has become the world’s largest repository of statistical knowledge.</li>
+<li> [Python](https://www.python.org/) is useful for many situations, including data science, AI and machine learning, web development, and IoT devices like the Raspberry Pi.</li>
+<li> [R](https://www.r-project.org/) is popular in academia but companies that use R include IBM, Google, Facebook, Microsoft, Bank of America, Ford, TechCrunch, Uber, and Trulia and R has become the world’s largest repository of statistical knowledge.</li>
 <li>SQL was designed for managing data in relational databases.</li>
 </ol>
 
@@ -74,20 +74,16 @@ Data Science Methodology
 <li>Model Monitoring ans Assessment</li>
 </ol>
 
-- Development environments
-
-One of the most popular current development environments that data scientists are using is “Jupyter.” Jupyter first emerged as a tool for interactive Python programming; it now supports more than a hundred different programming languages through “kernels.”
+Development environments
+- One of the most popular current development environments that data scientists are using is “Jupyter.” Jupyter first emerged as a tool for interactive Python programming; it now supports more than a hundred different programming languages through “kernels.”
 
 RStudio is one of the oldest development environments for statistics and data science, having been introduced in 2011.
 
-- API
+API
+- An API lets two pieces of software talk to each other.
 
-An API lets two pieces of software talk to each other.
+Data sets
+- A data set is a structured collection of data. Data embodies information that might be represented as text, numbers, or media such as images, audio, or video files. A data set that is structured as tabular data comprises a collection of rows, which in turn comprise columns that store the information. Data set can be public or private.
 
-- Data sets
-
-A data set is a structured collection of data. Data embodies information that might be represented as text, numbers, or media such as images, audio, or video files. A data set that is structured as tabular data comprises a collection of rows, which in turn comprise columns that store the information. Data set can be public or private.
-
-- Machine Learning Models
-
-Machine learning uses algorithms – also known as ”models” - to identify patterns in the data. The process by which the model learns these patterns from data is called “model training." Once a model is trained, it can then be used to make predictions. When the model is presented with new data, it tries to make predictions or decisions based on the patterns it has learned from past data. Machine learning models can be divided into three basic classes: supervised learning, unsupervised learning, and reinforcement learning.
+Machine Learning Models
+- Machine learning uses algorithms – also known as ”models” - to identify patterns in the data. The process by which the model learns these patterns from data is called “model training." Once a model is trained, it can then be used to make predictions. When the model is presented with new data, it tries to make predictions or decisions based on the patterns it has learned from past data. Machine learning models can be divided into three basic classes: supervised learning, unsupervised learning, and reinforcement learning.
