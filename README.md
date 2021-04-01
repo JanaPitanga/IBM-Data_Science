@@ -79,10 +79,13 @@ One of the most popular current development environments that data scientists ar
 RStudio is one of the oldest development environments for statistics and data science, having been introduced in 2011.
 
 - API
+- 
 An API lets two pieces of software talk to each other.
 
 - Data sets
+
 A data set is a structured collection of data. Data embodies information that might be represented as text, numbers, or media such as images, audio, or video files. A data set that is structured as tabular data comprises a collection of rows, which in turn comprise columns that store the information. Data set can be public or private.
 
 - Machine Learning Models
+
 Machine learning uses algorithms – also known as ”models” - to identify patterns in the data. The process by which the model learns these patterns from data is called “model training." Once a model is trained, it can then be used to make predictions. When the model is presented with new data, it tries to make predictions or decisions based on the patterns it has learned from past data. Machine learning models can be divided into three basic classes: supervised learning, unsupervised learning, and reinforcement learning.
