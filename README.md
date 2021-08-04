@@ -87,3 +87,5 @@ Data sets
 
 Machine Learning Models
 - Machine learning uses algorithms – also known as ”models” - to identify patterns in the data. The process by which the model learns these patterns from data is called “model training." Once a model is trained, it can then be used to make predictions. When the model is presented with new data, it tries to make predictions or decisions based on the patterns it has learned from past data. Machine learning models can be divided into three basic classes: supervised learning, unsupervised learning, and reinforcement learning.
+
+[Open Source Tools for Data Science](https://handbook.magestore.com/books/ibm-data-science-professional-certificate/page/open-source-tools-for-data-science)
