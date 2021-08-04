@@ -59,8 +59,8 @@ Roles available for people who are interested in getting involved in data scienc
 
 Most used languages for data science
 <ol>
-<li> [Python] (https://www.python.org/) is useful for many situations, including data science, AI and machine learning, web development, and IoT devices like the Raspberry Pi.</li>
-<li> [R] (https://www.r-project.org/) is popular in academia but companies that use R include IBM, Google, Facebook, Microsoft, Bank of America, Ford, TechCrunch, Uber, and Trulia and R has become the world’s largest repository of statistical knowledge.</li>
+<li> [Python](https://www.python.org/) is useful for many situations, including data science, AI and machine learning, web development, and IoT devices like the Raspberry Pi.</li>
+<li> [R](https://www.r-project.org/) is popular in academia but companies that use R include IBM, Google, Facebook, Microsoft, Bank of America, Ford, TechCrunch, Uber, and Trulia and R has become the world’s largest repository of statistical knowledge.</li>
 <li>SQL was designed for managing data in relational databases.</li>
 </ol>
 
@@ -80,7 +80,7 @@ Development environments
 RStudio is one of the oldest development environments for statistics and data science, having been introduced in 2011.
 
 API
-- An API lets two pieces of software talk to each other.
+- An API lets two pieces of software talk to each other. API is a set of standards that enable cross-platform communication through a series of standards and protocols.
 
 Data sets
 - A data set is a structured collection of data. Data embodies information that might be represented as text, numbers, or media such as images, audio, or video files. A data set that is structured as tabular data comprises a collection of rows, which in turn comprise columns that store the information. Data set can be public or private.
