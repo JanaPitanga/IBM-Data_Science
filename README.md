@@ -1,7 +1,10 @@
 # IBM Data Science - Coursera
 
 - Course 1: [What is Data Science](#what-is-data-science)
-- Course 2: [Tools for Data Science](#tools-for-data-science)
+- Course 2: [Python Project for Data Science](#python-project-for-data-science)
+- Course 3: [Tools for Data Science](#tools-for-data-science)
+- Course 4:
+- Course 4: [Data Analysis with Python](#data-analysis-with-python)
 
 ## What is Data Science
 
@@ -37,6 +40,9 @@ According to the course material, a final deliverable in the form of a report, h
 
 
 Another interesting version of the 10 components of a Data Science project [here](https://medium.com/@yrnigam/how-to-write-a-data-science-report-181bd49d8f4d#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImQ0Y2JhMjVlNTYzNjYwYTkwMDlkODIwYTFjMDIwMjIwNzA1NzRlODIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MDcxODMxNTEsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwMDU4NTg5MjY0MDI3MDI4MzU5NiIsImVtYWlsIjoiamFuYXNhYmlub0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiMjE2Mjk2MDM1ODM0LWsxazZxZTA2MHMydHAyYTJqYW00bGpkY21zMDBzdHRnLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6IkphbmFpbmEgU2FiaW5vIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdndVBLWEhUSndOeFZ5UjhaajVvQWJOdk1WWXJFZWJIa3V2bENTbjR3PXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkphbmFpbmEiLCJmYW1pbHlfbmFtZSI6IlNhYmlubyIsImlhdCI6MTYwNzE4MzQ1MSwiZXhwIjoxNjA3MTg3MDUxLCJqdGkiOiJhMTIyNjk2MmFmYzIzZjAwYjBkNzgzZTUwN2JiZDRmODdkNjIzODdkIn0.h3xZbNlWJ-IfG9nCU98g57YxW9HWiCNjIjvPbYWySeKL1ApYJJHsuoqMDIH86JXn6dsJYK1Ud7nJNONwC5bSIoFFXnzh91ELZzWyzHQ0sCYfz-lZFwT15FKbz1FGwrFJWPcyHOR543yqqrkCgJpUZ1OPy7AqWXYsLO4KNzv58Ih0yCCwo3N8rMtGKVZ2_Telg4GeKEWnZaheCsH1vBsrbpc8z9wUgRvp3EVnbeIkIx5inscjuPUO3pSQCncuti0PyrTAWua00toPgwspgr-qcq7tq-rKMmKIgDn1W-nILZsljCutyUta1ii_69e1WEoWwRljj9CTyknp_SIOTcqYow)
+
+
+## Python Project for Data Science
 
 
 
@@ -89,5 +95,14 @@ Machine Learning Models
 - Machine learning uses algorithms – also known as ”models” - to identify patterns in the data. The process by which the model learns these patterns from data is called “model training." Once a model is trained, it can then be used to make predictions. When the model is presented with new data, it tries to make predictions or decisions based on the patterns it has learned from past data. Machine learning models can be divided into three basic classes: supervised learning, unsupervised learning, and reinforcement learning.
 
 [Open Source Tools for Data Science](https://handbook.magestore.com/books/ibm-data-science-professional-certificate/page/open-source-tools-for-data-science)
+
+## Data Analysis with Python
+
+The module discusses the importance of data analysis in obtaining useful information, answering questions, and predicting the unknown future. Using an example of a friend who wants to sell his car, the module explains how data analysis can help determine the best price considering characteristics such as color, brand, and horsepower. The module then introduces data preprocessing techniques, such as handling missing values, data normalization, and conversion of categorical variables to numeric. Exploratory data analysis is also covered, including descriptive statistics, data grouping, and correlation analysis. Additionally, the concept of simple and multiple linear regression is introduced, along with how to fit these models in Python using the scikit-learn library. Finally, the module discusses the importance of cross-validation in machine learning model evaluation and presents useful functions for calculating cross-validation scores and predictions.
+
+
+
+
+
 
 To be continue...
